@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+target/
+playwright-report/
+playwright/.auth/
+test-results/
+*.class
+.mvn/
